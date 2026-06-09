@@ -2,6 +2,10 @@
 
 # VaiBcall — Your AI assistant was in every meeting. It just couldn't hear them. Until now.
 
+
+Maybe just do vaibc0de of - https://github.com/silverstein/minutes
+
+
 VaiBcall records, transcribes, and speaker-diarizes your meetings locally — then makes every conversation queryable by Claude via 24 MCP tools. When you open Claude after a meeting, it already knows what was decided, who committed to what, and what changed since last week. No manual copy-paste. No re-briefing. No audio sent anywhere.
 
 Built on [minutes](https://useminutes.app) — open source, MIT licensed.
